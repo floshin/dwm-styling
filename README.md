@@ -1,6 +1,6 @@
 ## senua1a  
 
-![senua1a-style](senua1a/senua1a-style.jpg)
+![senua1a-style](senua1a/senua1-style.jpg)
 
 ## alice3a  
 
